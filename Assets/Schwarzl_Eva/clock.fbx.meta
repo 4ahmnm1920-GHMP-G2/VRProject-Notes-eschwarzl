@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 3309a24dcc06a394db21ee08b2f1fab2
+timeCreated: 1560342727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box18946
+    100002: //RootNode
+    100004: Cylinder245
+    100006: Cylinder257
+    100008: Glas
+    100010: Hebel
+    100012: Hinten
+    100014: Korpus
+    100016: Line123123136
+    100018: Line123123138
+    100020: Line123123139
+    100022: Line123123144
+    100024: Linke_Seite
+    100026: OilTank001
+    100028: Platte_Ziffernblatt
+    100030: Rechte_Seite
+    100032: Sphere007
+    100034: Sphere011
+    100036: transform1
+    100038: transform10
+    100040: transform11
+    100042: transform12
+    100044: transform13
+    100046: transform14
+    100048: transform15
+    100050: transform16
+    100052: transform17
+    100054: transform2
+    100056: transform3
+    100058: transform4
+    100060: transform5
+    100062: transform6
+    100064: transform7
+    100066: transform8
+    100068: transform9
+    100070: Wecker
+    100072: Zeiger_Minute
+    100074: Zeiger_Sekunde
+    100076: Zeiger_Stunde
+    100078: Zeiger_Stunde 1
+    400000: Box18946
+    400002: //RootNode
+    400004: Cylinder245
+    400006: Cylinder257
+    400008: Glas
+    400010: Hebel
+    400012: Hinten
+    400014: Korpus
+    400016: Line123123136
+    400018: Line123123138
+    400020: Line123123139
+    400022: Line123123144
+    400024: Linke_Seite
+    400026: OilTank001
+    400028: Platte_Ziffernblatt
+    400030: Rechte_Seite
+    400032: Sphere007
+    400034: Sphere011
+    400036: transform1
+    400038: transform10
+    400040: transform11
+    400042: transform12
+    400044: transform13
+    400046: transform14
+    400048: transform15
+    400050: transform16
+    400052: transform17
+    400054: transform2
+    400056: transform3
+    400058: transform4
+    400060: transform5
+    400062: transform6
+    400064: transform7
+    400066: transform8
+    400068: transform9
+    400070: Wecker
+    400072: Zeiger_Minute
+    400074: Zeiger_Sekunde
+    400076: Zeiger_Stunde
+    400078: Zeiger_Stunde 1
+    2300000: Zeiger_Stunde
+    3300000: Zeiger_Stunde
+    4300000: Zeiger_Stunde
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 952da41ec63c67c43872701c9935a8c8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
