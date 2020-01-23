@@ -1,9 +1,18 @@
 fileFormatVersion: 2
 guid: 91b480a4153c3a549ac9da4a987977e7
+<<<<<<< HEAD
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
+=======
+timeCreated: 1529355361
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 4
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,8 +30,11 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+<<<<<<< HEAD
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+=======
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -33,7 +45,11 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
+<<<<<<< HEAD
     mipBias: -100
+=======
+    mipBias: -1
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
     wrapU: 1
     wrapV: 1
     wrapW: -1
@@ -45,21 +61,33 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
+=======
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+<<<<<<< HEAD
   singleChannelComponent: 0
+=======
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
+<<<<<<< HEAD
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+=======
+  - buildTarget: DefaultTexturePlatform
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -69,9 +97,13 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<< HEAD
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Standalone
+=======
+  - buildTarget: Standalone
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -81,12 +113,16 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<< HEAD
     forceMaximumCompressionQuality_BC6H_BC7: 1
+=======
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
+<<<<<<< HEAD
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
@@ -98,6 +134,9 @@ TextureImporter:
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
+=======
+  spritePackingTag: 
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d
   userData: 
   assetBundleName: 
   assetBundleVariant: 

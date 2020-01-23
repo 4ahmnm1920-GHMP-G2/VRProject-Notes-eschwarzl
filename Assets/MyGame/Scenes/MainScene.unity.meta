@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/MyGame/Scenes/MainScene.unity.meta
 guid: d920b50b3204c98448b1a7e946b262fd
+=======
+guid: 7c7b0374c72c50848923f049fd3aacac
+>>>>>>> 62938f5f41bc99f5ff37d7a609a8db8dae788a7d:Assets/MyGame/Scenes/Game Scene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
